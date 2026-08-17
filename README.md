@@ -2,7 +2,7 @@
 
 A **content-based movie recommender system** that suggests similar movies based on a title you already like — no user rating history required. It uses **TF-IDF vectorization** and **cosine similarity** on each movie's overview, genres, and tagline to find the closest matches.
 
-🔗 **Live Demo:** https://movie-recommendation-system-sxezyod27vlw3kpgql6wqf.streamlit.app/
+🔗 **Live Demo:** https://movie-recommendation-system-uvchyhjltnol2me8ggzjua.streamlit.app/
 
 ---
 
